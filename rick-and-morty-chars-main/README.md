@@ -1,6 +1,6 @@
 # Rick And Morty Characters
 
-![RickAndMortyCharacters](/src/img/Cover.png)
+![RickAndMortyCharacters](src/img/Cover.png)
 
 ## Kullanılan Kaynaklar ve Paketler
 
